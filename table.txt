@@ -1,0 +1,11 @@
+create table work
+(
+empid varchar(15),
+empname varchar(10),
+designation varchar(15),
+department varchar(10),
+salary int
+)
+
+insert into work
+values ("chi23", "chiranjeeb", "L1", "IT", 35000)
